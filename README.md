@@ -16,4 +16,5 @@ Source code for [Unturned](https://smartlydressedgames.com/unturned/), a free op
 ## Resources
 
 - [Frequently Asked Questions](https://docs.smartlydressedgames.com/en/stable/u3-sdk/faq.html)
+- [Source Code Demo: Adding a Heat-Seeking Missile on YouTube](https://youtu.be/CqJnkcWfmEY)
 - [Unturned's Modding Documentation](https://docs.smartlydressedgames.com/en/stable/)
